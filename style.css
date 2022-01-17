@@ -1,0 +1,48 @@
+#cat{
+    width: 300px;
+    height: 300px;
+    border-color: blue;
+}
+
+#dog{
+    width: 300px;
+}
+
+body
+{
+    font-family: 'Arima Madurai', cursive;
+    background: rgb(251, 211, 211);
+}
+.header_div
+{
+    background: white;
+    color:orangered
+}
+
+.header_div p{
+    font-family: 'Patrick Hand', cursive; 
+    color: red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 19px;
+    background-color: white;
+    line-height: 4;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
